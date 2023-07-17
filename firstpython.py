@@ -1,1 +1,1 @@
-This file had been added
+This file has been added
