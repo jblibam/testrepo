@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Power BI Desktop
+Exec=env WINEPREFIX="/home/jbl/.wine" wine C:\\\\Program\\ Files\\\\Microsoft\\ Power\\ BI\\ Desktop\\\\bin\\\\PBIDesktop.exe 
+Type=Application
+StartupNotify=true
+Comment=Power BI Desktop
+Path=/home/jbl/.wine/dosdevices/c:/Program Files/Microsoft Power BI Desktop/bin/
+Icon=74D0_IconPowerBI.0
+StartupWMClass=pbidesktop.exe
